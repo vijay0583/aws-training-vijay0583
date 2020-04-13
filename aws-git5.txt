@@ -1,7 +1,5 @@
 this is 5th file that is for awsdev
 i have updated this 5th file
-<<<<<<< HEAD
 updated this file in local repository
-=======
 Manually updated this file in github master branch directly.
->>>>>>> 523965d75eace5ddf824288ea8bac1fc6c46db81
+
